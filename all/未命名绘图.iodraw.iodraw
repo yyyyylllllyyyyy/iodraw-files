@@ -68,8 +68,8 @@
         <mxCell id="Px69Dq_uvPy413iQx4Dc-23" value="&lt;h2&gt;逐层融合每个金字塔层（加权融合）&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="730" y="-560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Px69Dq_uvPy413iQx4Dc-24" value="&lt;h2&gt;&lt;font face=&quot;Helvetica&quot;&gt;读取两张图像&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="900" y="-530" width="120" height="60" as="geometry" />
+        <mxCell id="Px69Dq_uvPy413iQx4Dc-24" value="&lt;h2&gt;逐层向上重建还原图像&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="870" y="-560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
