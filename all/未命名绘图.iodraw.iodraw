@@ -66,7 +66,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Px69Dq_uvPy413iQx4Dc-23" value="&lt;h2&gt;构建高斯金字塔&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="730" y="-560" width="210" height="100" as="geometry" />
+          <mxGeometry x="730" y="-560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
