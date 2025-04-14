@@ -18,10 +18,10 @@
         <mxCell id="Px69Dq_uvPy413iQx4Dc-7" value="&lt;h2&gt;&lt;font face=&quot;Helvetica&quot;&gt;读取两张图像&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="-570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Px69Dq_uvPy413iQx4Dc-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="710" y="-720" as="targetPoint" />
-            <mxPoint x="430" y="-520.5" as="sourcePoint" />
+        <mxCell id="Px69Dq_uvPy413iQx4Dc-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="-600" as="sourcePoint" />
+            <mxPoint x="440" y="-650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
