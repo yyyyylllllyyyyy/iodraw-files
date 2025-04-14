@@ -13,7 +13,7 @@
           <mxGeometry x="74" y="-540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Px69Dq_uvPy413iQx4Dc-6" value="&lt;h2&gt;使用 Laplacian计算每张图像的焦点清晰度图&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="-750" width="200" height="120" as="geometry" />
+          <mxGeometry x="220" y="-570" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Px69Dq_uvPy413iQx4Dc-7" value="&lt;h2&gt;&lt;font face=&quot;Helvetica&quot;&gt;读取两张图像&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="-570" width="120" height="60" as="geometry" />
