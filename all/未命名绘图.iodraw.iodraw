@@ -57,11 +57,11 @@
         </mxCell>
         <mxCell id="Px69Dq_uvPy413iQx4Dc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Px69Dq_uvPy413iQx4Dc-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="-250" as="targetPoint" />
+            <mxPoint x="430" y="-260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Px69Dq_uvPy413iQx4Dc-6" value="&lt;h2&gt;&lt;font face=&quot;Helvetica&quot;&gt;读取两张图像&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="-280" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="-290" width="200" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
