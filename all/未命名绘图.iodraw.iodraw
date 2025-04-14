@@ -62,11 +62,11 @@
         </mxCell>
         <mxCell id="Px69Dq_uvPy413iQx4Dc-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Px69Dq_uvPy413iQx4Dc-23">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="740" y="-560" as="targetPoint" />
+            <mxPoint x="870" y="-530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Px69Dq_uvPy413iQx4Dc-23" value="&lt;h2&gt;构建高斯金字塔&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="-590" width="120" height="60" as="geometry" />
+          <mxGeometry x="730" y="-560" width="210" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
