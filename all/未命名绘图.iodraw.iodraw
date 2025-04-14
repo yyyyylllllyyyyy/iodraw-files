@@ -42,6 +42,12 @@
         <mxCell id="Px69Dq_uvPy413iQx4Dc-15" value="&lt;h2&gt;&lt;font face=&quot;Helvetica&quot;&gt;读取两张图像&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="-600" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Px69Dq_uvPy413iQx4Dc-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="-480" as="sourcePoint" />
+            <mxPoint x="620" y="-530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
