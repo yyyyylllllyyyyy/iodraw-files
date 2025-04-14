@@ -13,15 +13,15 @@
           <mxGeometry x="74" y="-540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Px69Dq_uvPy413iQx4Dc-6" value="&lt;h2&gt;使用 Laplacian计算每张图像的焦点清晰度图&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="-584" width="200" height="120" as="geometry" />
+          <mxGeometry x="280" y="-780" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Px69Dq_uvPy413iQx4Dc-7" value="&lt;h2&gt;&lt;font face=&quot;Helvetica&quot;&gt;读取两张图像&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="460" y="-550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Px69Dq_uvPy413iQx4Dc-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="224" y="-500" as="targetPoint" />
-            <mxPoint x="204" y="-500" as="sourcePoint" />
+            <mxPoint x="450" y="-520.5" as="targetPoint" />
+            <mxPoint x="430" y="-520.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
