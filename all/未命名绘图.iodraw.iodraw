@@ -15,22 +15,19 @@
         <mxCell id="Px69Dq_uvPy413iQx4Dc-6" value="&lt;h2&gt;使用 Laplacian计算每张图像的焦点清晰度图&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="-570" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Px69Dq_uvPy413iQx4Dc-7" value="&lt;h2&gt;&lt;font face=&quot;Helvetica&quot;&gt;读取两张图像&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="-540" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Px69Dq_uvPy413iQx4Dc-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.028;entryY=0.496;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Px69Dq_uvPy413iQx4Dc-7">
+        <mxCell id="Px69Dq_uvPy413iQx4Dc-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.028;entryY=0.496;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="-510.09999999999997" as="targetPoint" />
+            <mxPoint x="446.6400000000001" y="-510.24" as="targetPoint" />
             <mxPoint x="420" y="-510.09999999999997" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Px69Dq_uvPy413iQx4Dc-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Px69Dq_uvPy413iQx4Dc-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="720" y="-490" as="targetPoint" />
+            <mxPoint x="590" y="-510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Px69Dq_uvPy413iQx4Dc-13" value="&lt;h2&gt;&lt;font face=&quot;Helvetica&quot;&gt;读取两张图像&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="580" y="-520" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="-540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
