@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="835" dy="1647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="278" dy="1328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -23,12 +23,7 @@
         </mxCell>
         <mxCell id="Px69Dq_uvPy413iQx4Dc-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Px69Dq_uvPy413iQx4Dc-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="-510" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="580" y="-510" />
-              <mxPoint x="580" y="-570" />
-              <mxPoint x="590" y="-570" />
-            </Array>
+            <mxPoint x="580" y="-560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Px69Dq_uvPy413iQx4Dc-13" value="&lt;h2&gt;根据焦点图生成融合掩膜&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
