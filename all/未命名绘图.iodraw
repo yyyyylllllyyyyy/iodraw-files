@@ -21,16 +21,6 @@
             <mxPoint x="420" y="-510.09999999999997" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Px69Dq_uvPy413iQx4Dc-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.026;entryY=0.651;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Px69Dq_uvPy413iQx4Dc-13" target="Px69Dq_uvPy413iQx4Dc-15" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="-510" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="570" y="-520" />
-              <mxPoint x="580" y="-520" />
-              <mxPoint x="580" y="-551" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Px69Dq_uvPy413iQx4Dc-13" value="&lt;h2&gt;根据焦点图生成融合掩膜&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="450" y="-540" width="120" height="60" as="geometry" />
         </mxCell>
@@ -40,7 +30,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Px69Dq_uvPy413iQx4Dc-15" value="&lt;h2&gt;构建高斯金字塔&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="690" y="-590" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="-584" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Px69Dq_uvPy413iQx4Dc-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.007;entryY=0.655;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Px69Dq_uvPy413iQx4Dc-18" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -70,6 +60,12 @@
         </mxCell>
         <mxCell id="Px69Dq_uvPy413iQx4Dc-24" value="&lt;h2&gt;逐层向上重建还原图像&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="870" y="-560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wsaBmFcRtbwjlQBTyVei-0" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="-520" as="sourcePoint" />
+            <mxPoint x="660" y="-570" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
