@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1431" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="334" dy="1360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -51,11 +51,6 @@
         <mxCell id="Px69Dq_uvPy413iQx4Dc-18" value="&lt;h2&gt;构建拉普拉斯金字塔&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="600" y="-500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Px69Dq_uvPy413iQx4Dc-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Px69Dq_uvPy413iQx4Dc-23" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="870" y="-530" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Px69Dq_uvPy413iQx4Dc-23" value="&lt;h2&gt;逐层融合每个金字塔层（加权融合）&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="740" y="-540" width="120" height="60" as="geometry" />
         </mxCell>
@@ -70,6 +65,12 @@
               <mxPoint x="580" y="-520" />
               <mxPoint x="580" y="-563" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wsaBmFcRtbwjlQBTyVei-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="830" y="-440" as="sourcePoint" />
+            <mxPoint x="880" y="-490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
