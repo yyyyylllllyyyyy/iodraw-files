@@ -99,8 +99,16 @@
             <mxPoint x="390" y="-352" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yk2dNO54WhUWlkiyh-mD-7" value="&lt;h2&gt;噪声Z&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="yk2dNO54WhUWlkiyh-mD-7" value="&lt;h2&gt;噪声Z1&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="246" y="-382" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yk2dNO54WhUWlkiyh-mD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yk2dNO54WhUWlkiyh-mD-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="254" y="-470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yk2dNO54WhUWlkiyh-mD-9" value="&lt;h2&gt;&lt;font face=&quot;Helvetica&quot;&gt;读取两张图像&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="110" y="-500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
