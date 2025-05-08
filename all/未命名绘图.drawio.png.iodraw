@@ -60,7 +60,7 @@
           <mxGeometry x="740" y="-540" width="183" height="64" as="geometry" />
         </mxCell>
         <mxCell id="Px69Dq_uvPy413iQx4Dc-24" value="&lt;h2&gt;逐层向上重建还原图像&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="924" y="-537" width="100" height="60" as="geometry" />
+          <mxGeometry x="942" y="-537" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wsaBmFcRtbwjlQBTyVei-0" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.016;entryY=0.347;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Px69Dq_uvPy413iQx4Dc-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
