@@ -1,0 +1,82 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1242" dy="1742" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="Px69Dq_uvPy413iQx4Dc-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Px69Dq_uvPy413iQx4Dc-0" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="214" y="-510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Px69Dq_uvPy413iQx4Dc-0" value="&lt;h2&gt;&lt;font face=&quot;Helvetica&quot;&gt;读取两张图像&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="70" y="-540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Px69Dq_uvPy413iQx4Dc-6" value="&lt;h2&gt;使用 Laplacian计算每张图像的焦点清晰度图&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="220" y="-570" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Px69Dq_uvPy413iQx4Dc-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.028;entryY=0.496;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="446.6400000000001" y="-510.24" as="targetPoint" />
+            <mxPoint x="420" y="-510.09999999999997" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Px69Dq_uvPy413iQx4Dc-13" value="&lt;h2&gt;根据焦点图&amp;nbsp; &amp;nbsp;生成融合掩膜&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="450" y="-540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Px69Dq_uvPy413iQx4Dc-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.098;entryY=-0.084;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Px69Dq_uvPy413iQx4Dc-15" target="Px69Dq_uvPy413iQx4Dc-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="803" y="-637" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="758" y="-570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Px69Dq_uvPy413iQx4Dc-15" value="&lt;h2&gt;&amp;nbsp; &amp;nbsp; 构建高斯&amp;nbsp; &amp;nbsp; &amp;nbsp;金字塔&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="600" y="-600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Px69Dq_uvPy413iQx4Dc-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.007;entryY=0.655;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Px69Dq_uvPy413iQx4Dc-18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="-510.14" as="sourcePoint" />
+            <mxPoint x="580" y="-470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="-510" />
+              <mxPoint x="580" y="-480" />
+              <mxPoint x="580" y="-450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Px69Dq_uvPy413iQx4Dc-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.003;exitY=0.597;exitDx=0;exitDy=0;entryX=0.113;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Px69Dq_uvPy413iQx4Dc-18" target="Px69Dq_uvPy413iQx4Dc-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="-490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Px69Dq_uvPy413iQx4Dc-18" value="&lt;h2&gt;构建拉普拉斯金字塔&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="600" y="-490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Px69Dq_uvPy413iQx4Dc-23" value="&lt;h2&gt;逐层融合每个金字塔层（加权融合）&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="740" y="-540" width="183" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="Px69Dq_uvPy413iQx4Dc-24" value="&lt;h2&gt;逐层向上重建还原图像&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="946" y="-536" width="117" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="wsaBmFcRtbwjlQBTyVei-0" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.016;entryY=0.347;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Px69Dq_uvPy413iQx4Dc-15" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="-520" as="sourcePoint" />
+            <mxPoint x="580" y="-570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="-520" />
+              <mxPoint x="580" y="-580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wsaBmFcRtbwjlQBTyVei-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.516;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Px69Dq_uvPy413iQx4Dc-24" edge="1" source="Px69Dq_uvPy413iQx4Dc-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="-510" as="sourcePoint" />
+            <mxPoint x="910" y="-560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
