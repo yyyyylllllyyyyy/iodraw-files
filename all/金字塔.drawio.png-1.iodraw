@@ -33,7 +33,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Px69Dq_uvPy413iQx4Dc-15" value="&lt;h2&gt;&amp;nbsp; &amp;nbsp; 构建高斯&amp;nbsp; &amp;nbsp; &amp;nbsp;金字塔&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="600" y="-600" width="120" height="60" as="geometry" />
+          <mxGeometry x="605" y="-597" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Px69Dq_uvPy413iQx4Dc-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.007;entryY=0.655;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Px69Dq_uvPy413iQx4Dc-18" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
