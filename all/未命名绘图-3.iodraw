@@ -13,7 +13,7 @@
           <mxGeometry x="81" y="-274" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yk2dNO54WhUWlkiyh-mD-5" value="&lt;h2&gt;&lt;font face=&quot;Helvetica&quot;&gt;MNET&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="226" y="-276" width="120" height="60" as="geometry" />
+          <mxGeometry x="224" y="-394" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yk2dNO54WhUWlkiyh-mD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yk2dNO54WhUWlkiyh-mD-7" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -122,6 +122,9 @@
         </mxCell>
         <mxCell id="SP1fT5QckLeg7_Ybr_ob-1" value="&lt;h2&gt;噪声Z1&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-10" y="-18" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8IYVtweYrH5zx7Ldr0ox-0" value="&lt;h2&gt;INET&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="235" y="-384" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
